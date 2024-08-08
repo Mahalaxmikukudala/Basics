@@ -1,0 +1,4 @@
+hello world welcome to github!!!!
+take input from the user 
+provide the simple output
+todays task is given as the pqset trans task 
